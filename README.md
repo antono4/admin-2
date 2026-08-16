@@ -1,2 +1,32 @@
-Last updated: 2026-08-17 06:00:19 WIB
-Last updated: 2026-08-17 06:10:02 WIB
+# startbootstrap-sb-admin-2
+
+An open source Bootstrap 4 admin theme.
+
+## 📋 Overview
+
+This repository contains **1883 files** and is built with the following technologies:
+
+Node.js, HTML, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, HTML, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-17 06:20:32 WIB*
