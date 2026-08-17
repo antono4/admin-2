@@ -1,32 +1,67 @@
-# startbootstrap-sb-admin-2
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-An open source Bootstrap 4 admin theme.
+<h1 align="center">SB Admin 2 - Dashboard 👋</h1>
 
-## 📋 Overview
+<p align="center">
+  <strong>SB Admin 2 - Dashboard</strong>
+</p>
 
-This repository contains **1883 files** and is built with the following technologies:
-
-Node.js, HTML, JavaScript
-
-## 🚀 Quick Start
-
-```bash
-npm install
-npm run dev
-npm run build
-```
-
-## ✨ Features
-
-- 📝 Auto-generated documentation
-
-## 🛠️ Technologies
-
-Node.js, HTML, JavaScript
-
-## 📄 License
-
-MIT License
+<p align="center">
+  <a href="https://github.com/antono4/admin-2"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/admin-2-blue?logo=github"></a>
+  <a href="https://antono4.github.io/admin-2/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-1883-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-17 17:38:30 WIB-lightgrey">
+</p>
 
 ---
-*Last updated: 2026-08-17 17:33:11 WIB*
+
+## 📖 Tentang
+
+Repository **`admin-2`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/admin-2/`](https://antono4.github.io/admin-2/).
+
+## 🗂️ Struktur Proyek
+
+```
+admin-2/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `HTML`
+- `CSS`
+- `SCSS`
+- `JavaScript`
+
+> Total **1883 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/admin-2/](https://antono4.github.io/admin-2/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-08-17 17:38:30 WIB** oleh GitHub Actions .</sub>
